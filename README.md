@@ -2,6 +2,13 @@
 
 Notes and Codes for all lectures can be found in this repository.
 
+<p align="center">
+  <img src="[https://github.com/nikkikharkwal/cpp/blob/main/assets/1.jpg](https://www.codehelp.in/_next/image?	 
+        url=https%3A%2F%2Fdgyugonj9a9mu.cloudfront.net%2Fsupreme_1_codehelp_5114b9ebd5.jpg&w=828&q=100)" />
+</p>
+
+
+
 ## COURSE STRUCTURE
 
 <details>
