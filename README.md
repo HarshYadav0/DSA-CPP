@@ -11,16 +11,20 @@ Notes and Codes for all lectures can be found in this repository.
 ## COURSE STRUCTURE
 
 <details>
-  <summary>WEEK 01 TOPIC: Introduction to programming</summary>
+  <summary>WEEK 01 TOPIC: Introduction to programming - I</summary>
 
 ```bash
 
-CLASS NOTES: 01
-	1. How to approach a problem
-	2. What is pseudocode and flowchart
+CLASS: 01
+	1. Programming Fundamentals.
+	2. Thought process to solve problems.
+	3. What is pseudocode and flowchart.
 
 CLASS HOMEWORK: 01
 	1. Examples of pseudocode and flowchart
+	2. Homework is available in PDF.
+
+
 
 
 ```
