@@ -1,1 +1,1 @@
-# DSA-Supreme-Batch
+# Data Structure & Algorithm [Supreme-Batch]
