@@ -33,7 +33,7 @@ CLASS HOMEWORK: 01
 </details>
 
 <details>
-  <summary>CLASS 02 TOPIC: Write your first C++ program</summary>
+  <summary>CLASS 02 TOPIC: Write your first program</summary>
 
 ```bash
 
