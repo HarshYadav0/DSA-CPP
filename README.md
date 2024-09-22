@@ -8,10 +8,11 @@ Notes and Codes for all lectures can be found in this repository.
 
 
 
-## COURSE STRUCTURE
+## COURSE STRUCTURE :-
 
+<h2>WEEK-1 </h2>
 <details>
-  <summary>WEEK 01 TOPIC: Introduction to programming - I</summary>
+  <summary>CLASS 01 TOPIC: Introduction to programming - I</summary>
 
 ```bash
 
@@ -32,7 +33,7 @@ CLASS HOMEWORK: 01
 </details>
 
 <details>
-  <summary>WEEK 01 TOPIC: Write your first C++ program</summary>
+  <summary>CLASS 02 TOPIC: Write your first C++ program</summary>
 
 ```bash
 
@@ -58,7 +59,7 @@ CLASS HOMEWORK: 02
 </details>
 
 <details>
-  <summary>WEEK 01 TOPIC: Conditionals and loops</summary>
+  <summary>CLASS 03 TOPIC: Conditionals and loops</summary>
 
 ```bash
 
@@ -89,6 +90,10 @@ CLASS HOMEWORK: 03
 ```
 
 </details>
+
+<hr></hr>
+
+<h2>WEEK-2 </h2>
 
 <details>
   <summary>WEEK 02 TOPIC: Pattern continues</summary>
@@ -175,4 +180,6 @@ CLASS HOMEWORK: 06
 ```
 
 </details>
+
+<hr></hr>
 
