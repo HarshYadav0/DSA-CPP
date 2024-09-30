@@ -42,7 +42,7 @@ CLASS NOTES: 02
 	2. How compiler and interpreter work
     	3. Where to code
     	4. Lets write down the first code
-    	5. Print Love Babbar
+    	5. Print Namaste Bharat!
     	6. Variables and data types
     	7. How data is stored
     	8. Signed and unsigned data
@@ -51,7 +51,7 @@ CLASS NOTES: 02
 CLASS HOMEWORK: 02
 	1. 32 bits VS 64 bit architecture
     	2. Typecasting: implicit and explicit
-    	3. Number system: binary to decimal
+	3. Variable Naming Convention.
 
 
 ```
