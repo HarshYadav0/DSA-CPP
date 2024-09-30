@@ -96,6 +96,25 @@ CLASS HOMEWORK: 03
 
 </details>
 
+<details>
+  <summary>WEEk 1 - [ Connect ] </summary>
+
+```bash
+
+Topics : 
+	1. Short Discusion on Lec 1/Lec-2/Lec-3 topics for revision.
+	2. Find Prime or not (Flowchart / code).
+	3. Print Counting of 'N' (Flowchart / code).u
+	4. HLL (High Level Language).
+	5. Discuss about namespace & other syntax of c++.
+
+
+```
+
+</details>
+
+
+
 <hr></hr>
 
 <h2>WEEK-2 </h2>
