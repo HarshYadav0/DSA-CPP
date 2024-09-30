@@ -12,7 +12,7 @@ Notes and Codes for all lectures can be found in this repository.
 
 <h2>WEEK-1 </h2>
 <details>
-  <summary>CLASS 01 TOPIC: Introduction to programming - I</summary>
+  <summary>CLASS 01 TOPIC: Introduction to programming </summary>
 
 ```bash
 
