@@ -75,16 +75,21 @@ CLASS NOTES: 03
     	Pattern 7: Inverted Numeric Half Pyramid pattern
 
 CLASS HOMEWORK: 03
-	0. All flowcharts are converted into CPP programs
-	1. Multiply two numbers by taking input from user
-    	2. Find the perimeter of a triangle
-    	3. Find the simple interest
-    	4. Find the compound interest
-    	5. Print counting from n to 1
-    	6. Find the factorial of a number
-    	7. Check if number is prime or not
-    	8. Check valid triangle or not
-    	9. Print max of three numbers
+	1. Full pyramid pattern
+		      *
+		     * *
+		    * * *
+	2. Full inverted pyramid pattern
+		    * * *
+		     * *
+		      *
+	3. Numeric full pyramid pattern
+			1
+		      2	3 2
+		    3 4	5 4 3
+		  4 5 6	7 6 5 4
+		5 6 7 8 9 8 7 6 5
+	
 
 
 ```
