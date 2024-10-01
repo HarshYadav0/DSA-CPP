@@ -125,26 +125,26 @@ Topics :
 ```bash
 
 CLASS NOTES: 04
-	Pattern 08: Full Pyramid
-	Pattern 09: Inverted Full Pyramid
-    	Pattern 10: Dimond Pattern
-    	Pattern 11: Hollow Full Pyramid
-    	Pattern 12: Inverted Hollow Full Pyramid
-    	Pattern 13: Hollow Diamond pattern
-    	Pattern 14: Flipped Solid Diamond pattern
-    	Pattern 15: Fancy pattern 1
-    	Pattern 17: Inverted Hollow Half Pyramid
-    	Pattern 19: Fancy pattern 4
+	Pattern 01: Full Pyramid
+	Pattern 02: Inverted Full Pyramid
+	Pattern 03: Numeric Full Pyramid
+	Pattern 04: Numeric Hollow Pyramid
+	Pattern 05: Solid Diamond
+	Pattern 06: Hollow Diamond
+	Pattern 07: Flipped Solid Diamond
+	Pattern 08: Fancy Pattern #1
+	Pattern 09: Fancy Pattern #2
+	Pattern 10: Alphabet Palindrome Pyramid
 
 CLASS HOMEWORK: 04
-	Pattern 16: Fancy pattern 2
-	Pattern 18: Fancy pattern 3 -> Numerical Hollow Half Pyramid
-    	Pattern 20: Numeric Hollow Inverted Half Pyramid
-    	Pattern 21: Numeric Palindrome Equilateral Pyramid
-    	Pattern 22: Fancy pattern 5
-    	Pattern 23: Solid Half Diamond
-    	Pattern 24: Floyd Triangle
-    	Pattern 25: Butterfly Pattern
+	Pattern 01: Fancy pattern 2
+	Pattern 02: Fancy pattern 3 -> Numerical Hollow Half Pyramid
+    	Pattern 03: Numeric Hollow Inverted Half Pyramid
+    	Pattern 04: Fancy pattern 5
+    	Pattern 05: Solid Half Diamond
+    	Pattern 06: Floyd Triangle
+    	Pattern 07: Butterfly Pattern
+	*All Homework Question is available in PDF.*
 
 
 ```
