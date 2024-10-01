@@ -59,7 +59,7 @@ CLASS HOMEWORK: 02
 </details>
 
 <details>
-  <summary>CLASS 03 TOPIC: Conditionals and loops</summary>
+  <summary>CLASS 03 TOPIC: Let's Solve Some Patterns :</summary>
 
 ```bash
 
@@ -120,11 +120,11 @@ Topics :
 <h2>WEEK-2 </h2>
 
 <details>
-  <summary>WEEK 02 TOPIC: Pattern continues</summary>
+  <summary>Class 01 TOPIC: Pattern continues</summary>
 
 ```bash
 
-CLASS NOTES: 04
+CLASS NOTES: 01
 	Pattern 01: Full Pyramid
 	Pattern 02: Inverted Full Pyramid
 	Pattern 03: Numeric Full Pyramid
@@ -136,7 +136,7 @@ CLASS NOTES: 04
 	Pattern 09: Fancy Pattern #2
 	Pattern 10: Alphabet Palindrome Pyramid
 
-CLASS HOMEWORK: 04
+CLASS HOMEWORK: 01
 	Pattern 01: Fancy pattern 2
 	Pattern 02: Fancy pattern 3 -> Numerical Hollow Half Pyramid
     	Pattern 03: Numeric Hollow Inverted Half Pyramid
@@ -152,54 +152,60 @@ CLASS HOMEWORK: 04
 </details>
 
 <details>
-  <summary>WEEK 02 TOPIC: Bitwise operators and loops</summary>
+  <summary>Class 02 TOPIC: Operators Loops & Conditions : </summary>
 
 ```bash
 
-CLASS NOTES: 05
+CLASS NOTES: 02
 	1. Bitwise operators
 	2. Left and right shift operators
     	3. Pre/post increment and decrement operators
     	4. Break and continue keyword
     	5. Variable scoping
     	6. Operator precedence table
+	7. Switch Case
 
-CLASS HOMEWORK: 05
+CLASS HOMEWORK: 02
 	1. All homework programs
 	2. Why global variables are bad practice
+	3. a=5;
+		cout<<(++a)*(++a);
+	4. What type of expression and datatype can be given to switch expression
+	5. Can we use continue in switch case
+	6. Can we add operator in switch case
 
 ```
 
 </details>
 
 <details>
-  <summary>WEEK 02 TOPIC: Functions</summary>
+  <summary>Class 03 TOPIC: Functions & some problem statements : </summary>
 
 ```bash
 
-CLASS NOTES: 06
-	1. What is function
+CLASS NOTES: 03
+	1. What/Why is function
 	2. Function call stack
-    	3. Write a function to print sum of 3 numbers
-    	4. Write a function to return sum of 3 numbers
-    	5. Find maximum of three numbers
-    	6. Counting from 1 to N
-	7. Check prime or not prime number
-	8. Check number is even or odd
-	9. Sum of all numbers upto 1 to N
-	10. Sum of all even numbers upto 1 to N
+	3. Pass by value concept
+    	3. Write a function to add of 2 numbers
+    	4. Find maximum of 3 numbers
+    	5. Counting from 1 to N
+	6. Write a function of student & grade
+	7. Sum of all even numbers upto 1 to N
 
-CLASS HOMEWORK: 06
+CLASS HOMEWORK: 03
 	1. Function to find area of circle
-	2. Function to find factorial of a number
-    	3. Print all prime numbers from 1 to N
-    	4. Print all digits of an integer
-    	5. Creating a number using digits
-    	6. Print binary representation of a decimal number
-	7. Convert KM into Miles
-	8. Convert farenheit to celcius
-	9. Count all set bits of a number
-	10. Check even/odd using bitwise operator
+	2. function to Find number is even or odd
+	3. Function to find factorial of a number
+    	4. Print all prime numbers from 1 to N
+    	5. Print all digits of an integer
+    	6. Creating a number using digits
+	7. Print number of set bit.
+    	8. Print binary equivalent of a decimal number
+	9. Convert KM into Miles
+	10. Convert farenheit to celcius
+	11. Reverse an integer
+	12. Set the ith bit 
 
 ```
 
