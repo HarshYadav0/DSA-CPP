@@ -211,5 +211,40 @@ CLASS HOMEWORK: 03
 
 </details>
 
+<details>
+  <summary>WEEK 02 [ Connect ] :</summary>
+
+```bash
+
+CLASS : 03
+	1. What/Why is function
+	2. Ternary / conditional operator
+	3. Print digits of a number
+	4. Print number from digits
+	5. Print number of set bits
+	6. Convert km into miles
+
+
+```
+
+</details>
+
+<details>
+  <summary>Extra [Binary & Decimal Numbers ] :</summary>
+
+```bash
+
+Topics :
+	1. What is Number System
+	2. Decimal System
+	3. Binary Number System
+	4. Decimak to Binary Conversion --> Division Method & Bitwise Method
+	5. Binary to Decimal Conversion --> Division Method & Bitwise Method
+
+
+```
+
+</details>
+
 <hr></hr>
 
